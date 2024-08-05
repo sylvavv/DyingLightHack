@@ -1,4 +1,4 @@
-![menu](res/menu.png)
+![menu](menu.png)
 
 ## Installation
 
